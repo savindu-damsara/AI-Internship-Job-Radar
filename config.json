@@ -1,0 +1,43 @@
+
+{
+  "feeds": [
+    "https://itpro.lk/rss/all/"
+  ],
+  "job_keywords": [
+    "machine learning",
+    "artificial intelligence",
+    "ai engineer",
+    "ai/ml",
+    "data science",
+    "data scientist",
+    "data analyst",
+    "computer vision",
+    "nlp",
+    "deep learning",
+    "generative ai",
+    "mlops",
+    "AI Engineer Internship",
+    "AI/ML Intern",
+    "Intern",
+    "Internship",
+    "intern",
+    "internship"
+  ],
+  "level_keywords": [
+    "intern",
+    "internship",
+    "trainee",
+    "graduate",
+    "entry level",
+    "entry-level",
+    "junior"
+  ],
+  "excluded_keywords": [
+    "senior",
+    "principal",
+    "lead engineer",
+    "manager",
+    "director"
+  ],
+  "require_entry_level": true
+}
