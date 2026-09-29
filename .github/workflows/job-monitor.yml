@@ -1,9 +1,8 @@
-
 name: AI Job Radar
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "7,22,37,52 * * * *"
 
   workflow_dispatch:
 
